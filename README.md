@@ -1,6 +1,3 @@
-네, 제공된 코드를 바탕으로 DocTemplator 프로젝트의 README를 작성할 수 있습니다. 주요 기능과 사용 방법을 포함한 README를 작성해 드리겠습니다.
-
-```markdown
 # DocTemplator - 문서 템플릿 관리 시스템
 
 DocTemplator는 소프트웨어 개발 프로젝트에서 사용되는 문서 템플릿을 생성하고 관리하는 웹 애플리케이션입니다. Streamlit을 사용하여 구축되었으며, OpenAI의 GPT 모델을 활용하여 동적으로 문서 템플릿을 생성합니다.
